@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tiket Kuy</string>
+    <string name="slogan">TRAVEL KUY!</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="name_label">Nama</string>
+    <string name="bio_label">Pekerjaan Mu?</string>
+    <string name="explore">Jelajahi Sekarang</string>
+
+</resources>

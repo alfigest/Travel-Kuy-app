@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707744015701",
+    "firebase_url": "https://travelkuy-c85db.firebaseio.com",
+    "project_id": "travelkuy-c85db",
+    "storage_bucket": "travelkuy-c85db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707744015701:android:7a2de86723eec0a1f73bdc",
+        "android_client_info": {
+          "package_name": "com.example.travelkuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707744015701-i642g1nbgr54ib6novrg6s1nlmspbktu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelkuy",
+            "certificate_hash": "9fcba658682cef6116749d1b7dc59d6e2e34c236"
+          }
+        },
+        {
+          "client_id": "707744015701-06i3ofi4o6ro6r7uqft56v4u4jer3ncp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr25E0UhA4Lj-q0pffGlghY9t3JEaSeJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707744015701-06i3ofi4o6ro6r7uqft56v4u4jer3ncp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
